@@ -33,6 +33,11 @@ public record AuthorDto(
             String title,
             String link,
             String authors,
-            String publication
+            String publication,
+            CitedBy cited_by
+    ){}
+
+    public record CitedBy(
+            int value
     ){}
 }
