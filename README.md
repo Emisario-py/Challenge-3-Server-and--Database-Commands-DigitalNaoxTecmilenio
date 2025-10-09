@@ -57,8 +57,9 @@ serpapi.api-key=YOUR_SERPAPI_KEY
 ## 🧰 Build & Run Instructions
 1. Clone the repository.
 ```cmd
-git clone https://github.com/yourusername/scholar-api.git
-cd scholar-api
+git clone https://github.com/yourusername/Challenge-3-Server-and--Database-Commands-DigitalNaoxTecmilenio.git
+
+cd App
 ```
 2. Build the project
 ```cmd
@@ -93,3 +94,6 @@ mvn spring-boot:run
   ]
 }
 ```
+## 🧤 Tools
+
+**Postman / Insomnia or others** – To test endpoints manually.
